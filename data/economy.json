@@ -1,0 +1,191 @@
+{
+  "698892869909479434": {
+    "balance": 40234,
+    "lastDaily": 20376,
+    "lastWork": 1760557968987,
+    "lastMine": 0,
+    "inventory": {
+      "pico": 1
+    },
+    "items": {
+      "🏆grt_f1™_drivers_championship": 1,
+      "pico": 12
+    },
+    "minerals": {
+      "uranio": 44
+    }
+  },
+  "619278043462107136": {
+    "balance": 11000,
+    "lastDaily": 20376,
+    "lastWork": 1760558191731,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "paraguas": 1
+    },
+    "minerals": {
+      "uranio": 8
+    }
+  },
+  "975005314111909908": {
+    "balance": 17257,
+    "lastDaily": 20366,
+    "lastWork": 1760033908214,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "pico": 1
+    },
+    "minerals": {
+      "uranio": 18
+    }
+  },
+  "814946494163058738": {
+    "balance": 214,
+    "lastDaily": 20375,
+    "lastWork": 1760473241749,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "pico": 5
+    },
+    "minerals": {
+      "plata": 2
+    }
+  },
+  "1421060442062590024": {
+    "balance": 38740,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {},
+    "minerals": {}
+  },
+  "1014190765209034752": {
+    "balance": 15725,
+    "lastDaily": 20376,
+    "lastWork": 1760552010552,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "pico": 6,
+      "ponfepapa": 1
+    },
+    "minerals": {
+      "uranio": 20,
+      "cobre": 5
+    }
+  },
+  "849646587642380309": {
+    "balance": 41,
+    "lastDaily": 20370,
+    "lastWork": 1760105571112,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "pico": 1
+    },
+    "minerals": {}
+  },
+  "670984514033418250": {
+    "balance": 130498,
+    "lastDaily": 20376,
+    "lastWork": 1760559753862,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "ponfepapa": 2,
+      "pico": 4
+    },
+    "minerals": {
+      "uranio": 336,
+      "cobre": 2
+    }
+  },
+  "1053351712557105223": {
+    "balance": 100,
+    "lastDaily": 20362,
+    "lastWork": 0,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {},
+    "minerals": {}
+  },
+  "965342410068598856": {
+    "balance": 50,
+    "lastDaily": 20362,
+    "lastWork": 0,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {},
+    "minerals": {}
+  },
+  "1384236111689416849": {
+    "balance": 3722,
+    "lastDaily": 20376,
+    "lastWork": 1760557963729,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "ponfepapa": 1,
+      "pico": 1
+    },
+    "minerals": {
+      "uranio": 2
+    }
+  },
+  "1424405004478841005": {
+    "balance": 426,
+    "lastDaily": 20374,
+    "lastWork": 0,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "pico": 1
+    },
+    "minerals": {
+      "cobre": 1,
+      "plata": 2
+    }
+  },
+  "891107165912317993": {
+    "balance": 1615,
+    "lastDaily": 0,
+    "lastWork": 1760354464671,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "pico": 1
+    },
+    "minerals": {
+      "plata": 5,
+      "cobre": 1
+    }
+  },
+  "1427280424102531184": {
+    "balance": 1500,
+    "lastDaily": 20376,
+    "lastWork": 1760560572023,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {
+      "pico": 1
+    },
+    "minerals": {
+      "diamante": 2,
+      "plata": 7,
+      "cobre": 3
+    }
+  },
+  "507532272891592704": {
+    "balance": 5000,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastMine": 0,
+    "inventory": {},
+    "items": {},
+    "minerals": {}
+  }
+}
