@@ -56,11 +56,20 @@ public class Ponfe extends ListenerAdapter {
 
 
     public static void main(String[] args) throws LoginException {
-        JDABuilder.createDefault("DISCORD_TOKEN") // <-- pon tu token aquí
+        // Leemos el token desde la variable de entorno "DISCORD_TOKEN"
+        String token = System.getenv("DISCORD_TOKEN");
+
+        if (token == null || token.isEmpty()) {
+            System.err.println("❌ ERROR: La variable de entorno DISCORD_TOKEN no está configurada.");
+            return;
+        }
+
+        JDABuilder.createDefault(token) // <-- usamos la variable de entorno
                 .enableIntents(GatewayIntent.MESSAGE_CONTENT, GatewayIntent.GUILD_MESSAGES, GatewayIntent.GUILD_VOICE_STATES)
                 .addEventListeners(new Ponfe())
                 .build();
     }
+
 
     @Override
     public void onMessageReceived(MessageReceivedEvent event) {
